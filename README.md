@@ -1,2 +1,2 @@
-# semeru_guidelines
+# Semeru Guidelines
 Semeru Data and Machine Guidelines
