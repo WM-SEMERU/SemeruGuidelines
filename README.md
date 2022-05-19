@@ -19,5 +19,10 @@
 7. A guide to convolution arithmetic for deep learning [[paper]](https://arxiv.org/pdf/1603.07285.pdf)
 8. Understanding Deep Residual Networks [[web]](https://shuzhanfan.github.io/2018/11/ResNet/)
 
+### Stochastic Nets
+1. Introduction to Restricted Boltzmann Machines [[web]](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
+2. Monte Carlo Methods and Importance Sampling [[Lecture]](http://ib.berkeley.edu/labs/slatkin/eriq/classes/guest_lect/mc_lecture_notes.pdf)
+3. Expectation Maximization (EM) [[blog]](https://karinknudson.com/expectationmaximization.html)
+
 ### Few-shot Learning:
 - (2022) Flamingo [[paper]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) [[code]](https://github.com/lucidrains/flamingo-pytorch)
