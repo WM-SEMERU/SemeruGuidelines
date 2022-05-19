@@ -4,7 +4,7 @@
 - Checkout our [wiki](https://github.com/WM-SEMERU/semeru_guidelines/wiki) for machine deployment and setup.
 - Software Engineering Empirical Standards [[web]](https://acmsigsoft.github.io/EmpiricalStandards/docs/)
 
-# Current Projects
+# Semeru Projects
 Project | Managers | Contributors | Topic | Description
 ---|---|---|---|--- 
 TraceXplainer | David | Yanfu, Daniel | DL4SE, Interpretability | Software Retrieval Interpretability
