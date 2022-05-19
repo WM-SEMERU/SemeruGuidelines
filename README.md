@@ -64,3 +64,10 @@
 12. NSynth: Neural Audio Synthesis [[blog]](https://magenta.tensorflow.org/nsynth)
 13. An Introduction to Variational Autoencoders [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
 14. Understanding Variational Autoencoders (VAEs) [[blog]](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+
+### Adversarial NETS
+1. GANs [[web]](https://developers.google.com/machine-learning/gan)
+2. Generative adversarial networks [[YT]](https://www.youtube.com/watch?v=xYc11zyZ26M)
+3. Understanding Generative Adversarial Networks (GANs) [[blog]](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+4. GAN Lab [[demo]](https://poloclub.github.io/ganlab/)
+5. Generative Adversarial Networks [[tutorial]](https://arxiv.org/pdf/1701.00160.pdf)
