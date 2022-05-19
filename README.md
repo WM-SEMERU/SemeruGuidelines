@@ -5,6 +5,9 @@
 - Software Engineering Empirical Standards [[web]](https://acmsigsoft.github.io/EmpiricalStandards/docs/)
 
 # The Neophyte's Guide to Deep Learning 4 Software Engineering
+> By @computoloco
+
+## Basics
 - Deep Learning for Coders [[web]](https://www.fast.ai/)
 
 
