@@ -44,7 +44,23 @@
 3. The Illustrated Transformer [[blog]](https://jalammar.github.io/illustrated-transformer/)
 4. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) [[blog]](https://jalammar.github.io/illustrated-bert/)
 5. The Annotated Transformer [[web]](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-6. 
+
 ### Few-shot Learning:
 - (2022) Flamingo [[paper]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) [[code]](https://github.com/lucidrains/flamingo-pytorch)
 - Language Models are Few-Shot Learners [[paper]](https://arxiv.org/pdf/2005.14165.pdf)
+
+### AutoEncoders
+1. Building Autoencoders in Keras [[blog]](https://blog.keras.io/building-autoencoders-in-keras.html)
+2. AutoenCODE [[repo]](https://github.com/micheletufano/AutoenCODE)
+3. Autoencoder - denoising autoencoder [YT]](https://www.youtube.com/watch?v=t2NQ_c5BFOc)
+4. Autoencoder - contractive autoencoder [[YT]](https://www.youtube.com/watch?v=79sYlJ8Cvlc)
+5. Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder [[YT]](https://www.youtube.com/watch?v=uaaqyVS9-rM)
+6. Deep learning - variational bound [[YT]](https://www.youtube.com/watch?v=pStDscJh2Wo)
+7. Variational_AutoEncoder [[YT]](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANizknbIiHzL_hYjEaI-wUe)
+8. vae_maths [[repo]](https://github.com/AndrewSpano/Disentangled-Variational-Autoencoder/blob/main/mathematical_analysis/vae_maths.pdf)
+9. Practicum: Variational autoencoders [[YT]](https://www.youtube.com/watch?v=7Rb4s9wNOmc)
+10. Generative Models - Variational Autoencoders [[book]](https://atcold.github.io/pytorch-Deep-Learning/en/week08/08-3/)
+11. Introducing Variational Autoencoders [[blog]](https://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and-code.html)
+12. NSynth: Neural Audio Synthesis [[blog]](https://magenta.tensorflow.org/nsynth)
+13. An Introduction to Variational Autoencoders [[paper]](https://arxiv.org/pdf/1906.02691.pdf)
+14. Understanding Variational Autoencoders (VAEs) [[blog]](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
