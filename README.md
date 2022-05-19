@@ -5,15 +5,15 @@
 - Software Engineering Empirical Standards [[web]](https://acmsigsoft.github.io/EmpiricalStandards/docs/)
 
 # Current Projects
-Project | Managers | Topic | Description
+Project | Managers | Contributors | Topic | Description
 ---|---|---|--- 
-TraceXplainer | David | DL4SE, Interpretability | Software Retrieval Interpretability
-CodeXplainer | Alvaro, David | DL4SE, Interpretability | Unconditioned open-ended generation of code
-iCodeGen | David | DL4SE, Interpretability | Conditioned interpretability of neural language models
-CodeShot | Daniel, David | DL4SE, Security | Few-Shot Learners for Code Summarization
-CodeCapability | Alejandro, David | DL4SE, Evaluation | Capabilities for evaluating neural language models
-Athena | Yanfu | DL4SE, CodeSearch | A graph architecture for code search
-Tango | Yanfu | ? | ?
+TraceXplainer | David | Yanfu, Daniel | DL4SE, Interpretability | Software Retrieval Interpretability
+CodeXplainer | Alvaro, David | Daniel | DL4SE, Interpretability | Unconditioned open-ended generation of code
+iCodeGen | David | Nathan | DL4SE, Interpretability | Conditioned interpretability of neural language models
+CodeShot | Daniel, David | Dipin | DL4SE, Security | Few-Shot Learners for Code Summarization
+CodeCapability | Alejandro, David | ? | DL4SE, Evaluation | Capabilities for evaluating neural language models
+Athena | Yanfu | Nathan | DL4SE, CodeSearch | A graph architecture for code search
+Tango | Yanfu | Nathan | ? | ?
 
 # The Neophyte's Guide to Deep Learning 4 Software Engineering
 > By @computoloco
