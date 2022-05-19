@@ -55,7 +55,7 @@
 ### AutoEncoders
 1. Building Autoencoders in Keras [[blog]](https://blog.keras.io/building-autoencoders-in-keras.html)
 2. AutoenCODE [[repo]](https://github.com/micheletufano/AutoenCODE)
-3. Autoencoder - denoising autoencoder [YT]](https://www.youtube.com/watch?v=t2NQ_c5BFOc)
+3. Autoencoder - denoising autoencoder [[YT]](https://www.youtube.com/watch?v=t2NQ_c5BFOc)
 4. Autoencoder - contractive autoencoder [[YT]](https://www.youtube.com/watch?v=79sYlJ8Cvlc)
 5. Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder [[YT]](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 6. Deep learning - variational bound [[YT]](https://www.youtube.com/watch?v=pStDscJh2Wo)
