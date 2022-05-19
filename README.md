@@ -6,7 +6,7 @@
 
 # Current Projects
 Project | Managers | Contributors | Topic | Description
----|---|---|--- 
+---|---|---|---|--- 
 TraceXplainer | David | Yanfu, Daniel | DL4SE, Interpretability | Software Retrieval Interpretability
 CodeXplainer | Alvaro, David | Daniel | DL4SE, Interpretability | Unconditioned open-ended generation of code
 iCodeGen | David | Nathan | DL4SE, Interpretability | Conditioned interpretability of neural language models
