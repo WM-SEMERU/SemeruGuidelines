@@ -2,6 +2,7 @@
 > Semeru Data and Machine Guidelines
 
 Checkout our [wiki](https://github.com/WM-SEMERU/semeru_guidelines/wiki) for machine deployment and setup.
+Software Engineering Empirical Standards [[web]](https://acmsigsoft.github.io/EmpiricalStandards/docs/)
 
 ## The Neophyte's Guide to Deep Learning 4 Software Engineering
 - Deep Learning for Coders [[web]](https://www.fast.ai/)
