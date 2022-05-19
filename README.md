@@ -15,7 +15,7 @@
 ![checklist](https://user-images.githubusercontent.com/8354015/169404571-fb7a8d05-f501-4ebe-a02e-68617cd90281.png)
 
 ## DL Basics
-- Deep Learning for Coders [[web]](https://www.fast.ai/)
+- Deep Learning for Coders [[fast.AI]](https://www.fast.ai/)
 - Natural Language Tutorial for DL Researchers [[tutorial]](https://github.com/graykode/nlp-tutorial)
 - The Super Duper NLP Repo [[repo]](https://notebooks.quantumstat.com/)
 
