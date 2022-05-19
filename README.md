@@ -7,13 +7,15 @@
 # The Neophyte's Guide to Deep Learning 4 Software Engineering
 > By @computoloco
 
-## Basics
+## DL4SE Basics
+- A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research [[web]](https://ml4code.github.io/publications/watson2021systematic/)
+
+## DL Basics
 - Deep Learning for Coders [[web]](https://www.fast.ai/)
 - Natural Language Tutorial for DL Researchers [[tutorial]](https://github.com/graykode/nlp-tutorial)
 - The Super Duper NLP Repo [[repo]](https://notebooks.quantumstat.com/)
 
-
-## Approaches
+## DL Approaches
 ### Convolutional Nets
 1. CNNs from different viewpoints [[web]](https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 2. How convolutional neural networks work, in depth [[web]](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
@@ -71,3 +73,23 @@
 3. Understanding Generative Adversarial Networks (GANs) [[blog]](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 4. GAN Lab [[demo]](https://poloclub.github.io/ganlab/)
 5. Generative Adversarial Networks [[tutorial]](https://arxiv.org/pdf/1701.00160.pdf)
+
+## DL Influential Papaers
+Krizhevsky.2012	ImageNet Classification with Deep Convolutional Neural Networks
+Zeiler.2013	Visualizing and Understanding Convolutional Networks
+He.2015	Deep Residual Learning for Image Recognition
+Salakhutdinov.2007	Semantic Hashing
+Tang.2013	A New Learning Algorithm for Stochastic Feedforward Neural Networks
+Hochreiter.1997	Long Short-term Memory
+Mikolov.2012	Statistical Language Models Based on Neural Networks (Chap. 1-4)
+Mikolov.2013	Efficient Estimation of Word Representations in Vector Space
+Vaswani.2017	Attention Is All You Need
+Devlin.2019	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Socher.2011b	Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions
+White.2016	Deep Learning Code Fragments for Code Clone Detection
+Vincent.2008	Extracting and Composing Robust Features with Denoising Autoencoders
+Engel.2017	Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders
+Kingma.2014	Auto-Encoding Variational Bayes
+Higgins.2017	beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework
+Goodfellow.2014	Generative Adversarial Nets
+
