@@ -75,7 +75,7 @@
 4. GAN Lab [[demo]](https://poloclub.github.io/ganlab/)
 5. Generative Adversarial Networks [[tutorial]](https://arxiv.org/pdf/1701.00160.pdf)
 
-## DL Influential Papaers
+## DL Influential Work
 Authors | Paper | Topic
 ---|---|---
 Krizhevsky.2012 |	ImageNet Classification with Deep Convolutional Neural Networks |	Convolutional
