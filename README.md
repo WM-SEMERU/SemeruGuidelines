@@ -9,7 +9,7 @@
 
 ## DL4SE Basics
 - A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research [[web]](https://ml4code.github.io/publications/watson2021systematic/)
-- ![checklist](https://user-images.githubusercontent.com/8354015/169404571-fb7a8d05-f501-4ebe-a02e-68617cd90281.png)
+![checklist](https://user-images.githubusercontent.com/8354015/169404571-fb7a8d05-f501-4ebe-a02e-68617cd90281.png)
 
 ## DL Basics
 - Deep Learning for Coders [[web]](https://www.fast.ai/)
@@ -76,21 +76,26 @@
 5. Generative Adversarial Networks [[tutorial]](https://arxiv.org/pdf/1701.00160.pdf)
 
 ## DL Influential Papaers
-Krizhevsky.2012	ImageNet Classification with Deep Convolutional Neural Networks
-Zeiler.2013	Visualizing and Understanding Convolutional Networks
-He.2015	Deep Residual Learning for Image Recognition
-Salakhutdinov.2007	Semantic Hashing
-Tang.2013	A New Learning Algorithm for Stochastic Feedforward Neural Networks
-Hochreiter.1997	Long Short-term Memory
-Mikolov.2012	Statistical Language Models Based on Neural Networks (Chap. 1-4)
-Mikolov.2013	Efficient Estimation of Word Representations in Vector Space
-Vaswani.2017	Attention Is All You Need
-Devlin.2019	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-Socher.2011b	Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions
-White.2016	Deep Learning Code Fragments for Code Clone Detection
-Vincent.2008	Extracting and Composing Robust Features with Denoising Autoencoders
-Engel.2017	Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders
-Kingma.2014	Auto-Encoding Variational Bayes
-Higgins.2017	beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework
-Goodfellow.2014	Generative Adversarial Nets
+Authors | Paper | Topic
+---|---|---
+Krizhevsky.2012 |	ImageNet Classification with Deep Convolutional Neural Networks |	Convolutional
+
+Zeiler.2013	Visualizing and Understanding Convolutional Networks	Convolutional
+He.2015	Deep Residual Learning for Image Recognition	Convolutional
+Salakhutdinov.2007	Semantic Hashing	Stochastic
+Tang.2013	A New Learning Algorithm for Stochastic Feedforward Neural Networks	Stochastic
+Hochreiter.1997	Long Short-term Memory	Recurrent
+Mikolov.2012	Statistical Language Models Based on Neural Networks (Chap. 1-4)	Recurrent
+Mikolov.2013	Efficient Estimation of Word Representations in Vector Space	Recurrent
+Vaswani.2017	Attention Is All You Need	Transformer
+Devlin.2019	BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding	Transformer
+Socher.2011b	Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions	Autoencoder
+White.2016	Deep Learning Code Fragments for Code Clone Detection	Autoencoder
+Vincent.2008	Extracting and Composing Robust Features with Denoising Autoencoders	Autoencoder
+Engel.2017	Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders	Autoencoder
+Kingma.2014	Auto-Encoding Variational Bayes	Autoencoder
+Higgins.2017	beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework	Autoencoder
+Goodfellow.2014	Generative Adversarial Nets	Adversarial
+![image](https://user-images.githubusercontent.com/8354015/169404988-a2458a6f-83e4-4ef5-ac0d-4faa6a1fbae3.png)
+
 
