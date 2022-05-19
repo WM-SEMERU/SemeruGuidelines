@@ -13,8 +13,6 @@
 - The Super Duper NLP Repo [[repo]](https://notebooks.quantumstat.com/)
 
 
-
-
 ## Approaches
 ### Convolutional Nets
 1. CNNs from different viewpoints [[web]](https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
@@ -40,5 +38,13 @@
 6. Understanding LSTM Networks [[blog]](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 7. Illustrated Guide to LSTM's and GRU's: A step by step explanation [[YT]](https://www.youtube.com/watch?v=8HyCNIVRbSU)
 
+### Transformers
+1. Practicum: Attention and the Transformer [[YT]](https://www.youtube.com/watch?v=f01J0Dri-6k)
+2. Understanding Transformers, the Data Science Way [[blog]](https://www.kdnuggets.com/2020/10/understanding-transformers-data-science-way.html)
+3. The Illustrated Transformer [[blog]](https://jalammar.github.io/illustrated-transformer/)
+4. The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) [[blog]](https://jalammar.github.io/illustrated-bert/)
+5. The Annotated Transformer [[web]](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+6. 
 ### Few-shot Learning:
 - (2022) Flamingo [[paper]](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) [[code]](https://github.com/lucidrains/flamingo-pytorch)
+- Language Models are Few-Shot Learners [[paper]](https://arxiv.org/pdf/2005.14165.pdf)
