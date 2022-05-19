@@ -9,6 +9,7 @@
 
 ## DL4SE Basics
 - A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research [[web]](https://ml4code.github.io/publications/watson2021systematic/)
+- ![checklist](https://user-images.githubusercontent.com/8354015/169404571-fb7a8d05-f501-4ebe-a02e-68617cd90281.png)
 
 ## DL Basics
 - Deep Learning for Coders [[web]](https://www.fast.ai/)
