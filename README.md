@@ -10,7 +10,7 @@ Project | Managers | Contributors | Topic | Description
 [TraceXplainer](https://github.com/WM-SEMERU/traceXplainer) | David | Yanfu, Daniel | DL4SE, Interpretability | Software Retrieval Interpretability
 CodeXplainer | Alvaro, David | Daniel | DL4SE, Interpretability | Unconditioned open-ended generation of code
 iCodeGen | David | Nathan | DL4SE, Interpretability | Conditioned interpretability of neural language models
-CodeShot | Daniel, David | Dipin | DL4SE, Security | Few-Shot Learners for Code Summarization
+[CodeShot](https://github.com/WM-SEMERU/code_review_4_vulnerability) | Daniel, David | Dipin | DL4SE, Security | Few-Shot Learners for Code Summarization
 CodeCapability | Alejandro, David | ? | DL4SE, Evaluation | Capabilities for evaluating neural language models
 [Athena](https://github.com/WM-SEMERU/athena) | Yanfu | Nathan | DL4SE, CodeSearch | A graph architecture for code search
 Tango | Yanfu | Nathan | ? | ?
