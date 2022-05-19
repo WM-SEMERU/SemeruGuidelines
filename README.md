@@ -12,6 +12,7 @@ CodeXplainer | Alvaro, David | DL4SE, Interpretability | Unconditioned open-ende
 iCodeGen | David | DL4SE, Interpretability | Conditioned interpretability of neural language models
 CodeShot | Daniel, David | DL4SE, Security | Few-Shot Learners for Code Summarization
 CodeCapability | Alejandro, David | DL4SE, Evaluation | Capabilities for evaluating neural language models
+Athena | Yanfu | DL4SE, CodeSearch | A graph architecture for code search
 
 # The Neophyte's Guide to Deep Learning 4 Software Engineering
 > By @computoloco
