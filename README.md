@@ -4,6 +4,9 @@
 - Checkout our [wiki](https://github.com/WM-SEMERU/semeru_guidelines/wiki) for machine deployment and setup.
 - Software Engineering Empirical Standards [[web]](https://acmsigsoft.github.io/EmpiricalStandards/docs/)
 
+# Current Projects
+- TODO
+
 # The Neophyte's Guide to Deep Learning 4 Software Engineering
 > By @computoloco
 
