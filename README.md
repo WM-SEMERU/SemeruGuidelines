@@ -15,6 +15,8 @@ CodeCapability | Alejandro, David | ? | DL4SE, Evaluation | Capabilities for eva
 [Athena](https://github.com/WM-SEMERU/athena) | Yanfu | Nathan | DL4SE, CodeSearch | A graph architecture for code search
 Tango | Yanfu | Nathan | ? | ?
 [CodeProbing](https://github.com/WM-SEMERU/CodeProbing) | Daniel, David | ? | DL4SE | Probing Compositionality and Uniquiness of Unconditioned Code Generation
+[MASC-Ext](https://github.com/Secure-Platforms-Lab-W-M/MASC-Artifact) | Amit | Nathan | Security, Crypto-Detector | Extending MASC - Mutation Analysis for evaluating Static Crypto-API misuse detectors
+x | Amit | - | Security, SE | Security Tools in Practice
 
 # The Neophyte's Guide to Deep Learning 4 Software Engineering
 > By @computoloco
