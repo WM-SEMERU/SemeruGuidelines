@@ -29,6 +29,7 @@ x | Amit | - | Security, SE | Security Tools in Practice
 - Deep Learning for Coders [[fast.AI]](https://www.fast.ai/)
 - Natural Language Tutorial for DL Researchers [[tutorial]](https://github.com/graykode/nlp-tutorial)
 - The Super Duper NLP Repo [[repo]](https://notebooks.quantumstat.com/)
+- NBDEV: Developerment Environment [[tutorial]](https://nbdev.fast.ai/)
 
 ## DL Approaches
 ### Convolutional Nets
