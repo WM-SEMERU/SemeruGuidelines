@@ -5,7 +5,7 @@
 - Software Engineering Empirical Standards [[web]](https://acmsigsoft.github.io/EmpiricalStandards/docs/)
 
 # Deep Learning Resources
-- The Neophyte's Guide to Deep Learning 4 Software Engineering [blog](https://github.com/WM-SEMERU/semeru_guidelines/blob/main/dl4se.md)
+- The Neophyte's Guide to Deep Learning 4 Software Engineering [[blog]](https://github.com/WM-SEMERU/semeru_guidelines/blob/main/dl4se.md)
 - DL Influential Work [[list]](https://github.com/WM-SEMERU/semeru_guidelines/blob/main/dlrefs.md)
 
 # Semeru Projects
