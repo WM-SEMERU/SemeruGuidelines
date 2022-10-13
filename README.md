@@ -15,7 +15,8 @@ Project | Managers | Contributors | Topic | Description
 DeepCodeXplainer | Alvaro, David | Daniel | DL4SE, Interpretability | Deep Code Generator Explainer: Unconditioned open-ended generation of code
 iCodeGen | David | Nathan | DL4SE, Interpretability | Conditioned interpretability of neural language models
 [CodeShot](https://github.com/WM-SEMERU/code_review_4_vulnerability) | Daniel, David | Dipin | DL4SE, Security | Few-Shot Learners for Code Summarization
-CausalCodeCapability | Alejandro, David | ? | DL4SE, Evaluation | Capabilities for evaluating neural language models
+[CodeSyntaxConcepts](https://github.com/WM-SEMERU/CodeSyntaxConcept) | David, Alejandro | ? | DL4SE, Evaluation | Capabilities for Syntax Concepts
+[CodeChecklist](https://github.com/WM-SEMERU/CodeCheckList) | Alejandro, David | ? | DL4SE, Evaluation | Capabilities for evaluating neural language models
 [Athena](https://github.com/WM-SEMERU/athena) | Yanfu | Nathan | DL4SE, CodeSearch | A graph architecture for code search
 Tango | Yanfu | Nathan | ? | ?
 [CodeProbing I](https://github.com/WM-SEMERU/CodeProbing) | Alvaro, David | Daneil | DL4SE | Probing Behavioral Testing for Code Generators [REF](https://arxiv.org/abs/2005.04118)
