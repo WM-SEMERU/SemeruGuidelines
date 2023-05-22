@@ -23,3 +23,9 @@ Tango | Yanfu | Nathan | ? | ?
 [CodeProbing II](https://github.com/WM-SEMERU/CodeProbing) | Daniel, David | ? | DL4SE | Probing Compositionality and Uniquiness of Unconditioned Code Generation
 [MASC-Ext](https://github.com/Secure-Platforms-Lab-W-M/MASC-Artifact) | Amit | Nathan | Security, Crypto-Detector | Extending MASC - Mutation Analysis for evaluating Static Crypto-API misuse detectors
 x | Amit | - | Security, SE | Security Tools in Practice
+
+# Conferences
+Conference | Track | Important Date
+--- | --- | ---
+ICSE | Research | Tue 1 Aug 2023
+ICSE | New Ideas | Thu 14 Sep 2023
