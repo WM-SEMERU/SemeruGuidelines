@@ -72,8 +72,13 @@ Multi-Intent Comment Generation via In-Context Learning** (2023), arxiv, Geng, M
 ## Security / Vulnerability Detection
 - **Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models.** (2023), arxiv, Hajipour, Hossein, et al. [[pdf]](https://arxiv.org/pdf/2302.04012)
 - **Controlling Large Language Models to Generate Secure and Vulnerable Code** (2023), arxiv, He, J., and M. Vechev [[pdf]](https://arxiv.org/pdf/2302.05319)
+- **VulChecker: Graph-based Vulnerability Localization in Source Code** (2022), Usenix, Mirsky, Yisroel, et al. [[pdf]](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf)
+- **Machine Learning for Source Code Vulnerability Detection: What Works and What Isn't There Yet** (2022), IEEE Security & Privacy, Marjanov, Tina, et al.
+- **Path-sensitive code embedding via contrastive learning for software vulnerability detection** (2022), ISSTA'22, Cheng, Xiao, et al.
+- **LineVul: A Transformer-based Line-Level Vulnerability Prediction** (2022), MSR'22, Fu, M., & Tantithamthavorn, C. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/359402890_LineVul_A_Transformer-based_Line-Level_Vulnerability_Prediction/links/623ee3d48068956f3c4cbede/LineVul-A-Transformer-based-Line-Level-Vulnerability-Prediction.pdf)[[code]](https://github.com/awsm-research/LineVul)
 
 ## Bug Detection
+- **Large Language Models and Simple, Stupid Bugs** (2023), arxiv, Jesse, Kevin, et al. [[pdf]](https://arxiv.org/pdf/2303.11455)
   
  ## Prompt Engineering
 - **Repository-Level Prompt Generation for Large Language Models of Code** (2022), arxiv, Shrivastava, Disha, et al. [[pdf]](https://arxiv.org/pdf/2206.12839)
