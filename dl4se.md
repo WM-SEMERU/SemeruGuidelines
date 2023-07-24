@@ -5,7 +5,7 @@
 ### List of Papers
 
 - Curated List of Influential/Relevant Studies in DL4SE [[list](https://github.com/WM-SEMERU/SemeruGuidelines/blob/main/curated.md)]
-- MUST read Studies in DL4SE[[list]()]
+- MUST read Studies in DL4SE[[list](https://github.com/WM-SEMERU/SemeruGuidelines/blob/main/must.md)]
 - Machine Learning Basic/Fundamental Material [[list](https://github.com/WM-SEMERU/SemeruGuidelines/blob/main/basics.md)]
 
 
