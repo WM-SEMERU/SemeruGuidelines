@@ -27,7 +27,20 @@
 - **Compilable Neural Code Generation with Compiler Feedback** (2022), arxiv 2022, Wang, Xin, et al. [[pdf]](https://arxiv.org/pdf/2203.05132.pdf)
 - **Predictive Synthesis of API-Centric Code** (2022), arxiv 2022, Nam, Daye, et al. [[pdf]](https://arxiv.org/pdf/2201.03758.pdf)
 - **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)
-  
+
+## Code Summarization
+- **Function Call Graph Context Encoding for Neural Source Code Summarization** (2023), TSE, Bansal, Aakash, et al. [[pdf](https://ieeexplore.ieee.org/abstract/document/10132550)]
+- **CoSS: Leveraging Statement Semantics for Code Summarization** (2023), TSE, Shi, Chaochen, et al. [[pdf](https://ieeexplore.ieee.org/document/10068264)]
+- **Towards Retrieval-Based Neural Code Summarization: A Meta-Learning Approach** (2023), TSE, Zhou, Ziyi, et al. [[pdf](https://ieeexplore.ieee.org/document/10021882)]
+- **CLG-Trans: Contrastive Learning for Code Summarization via Graph Attention-based Transformer** (2023), SCP journal, Zeng, Jianwei, et al.
+- **ClassSum: a deep learning model for class-level code summarization** (2022), Springer NCA, Li, Mingchen, et al. [[code]](https://github.com/classsum/ClassSum)
+- **Boosting Code Summarization by Embedding Code Structures** (2022), COLING'22, Son, Jikyoeng, et al. [[pdf]](https://aclanthology.org/2022.coling-1.521.pdf)
+- **Low-Resources Project-Specific Code Summarization** (2022), ASE'22, Xie, Rui, et al. [[pdf]](https://arxiv.org/pdf/2210.11843)
+- **Few-shot training LLMs for project-specific code-summarization** (2022), arxiv, A., Toufique, and P. Devanbu. [[pdf]](https://arxiv.org/pdf/2207.04237)
+- **Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization** (2022), FSE'22, Shi, Lin, et al. [[pdf]](https://arxiv.org/pdf/2207.05579)
+- **Modeling Hierarchical Syntax Structure with Triplet Position for Source Code Summarization** (2022), ACL'22, Guo, Juncai, et al. [[pdf]](https://aclanthology.org/2022.acl-long.37.pdf)
+- **AST-Trans: Code Summarization with Efficient Tree-Structured Attention** (2022), ICSE'22, Tang, Ze, et al. [[pdf]](http://lichuanyi.info/files/papers/2022-Ze%20Tang-AST-Trans%20ICSE2022.pdf)
+- **A Transformer-based Approach for Source Code Summarization** (2020), arxiv 2020, Ahmad, Wasi Uddin, et al. [[pdf]](https://arxiv.org/pdf/2005.00653)  
 
 ## Security
 - **Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models.** (2023), arxiv, Hajipour, Hossein, et al. [[pdf]](https://arxiv.org/pdf/2302.04012)
@@ -35,6 +48,10 @@
   
  ## Prompt Engineering
 - **Repository-Level Prompt Generation for Large Language Models of Code** (2022), arxiv, Shrivastava, Disha, et al. [[pdf]](https://arxiv.org/pdf/2206.12839)
+
+## Interpretability/Explainability/Probing
+- **Demystifying What Code Summarization Models Learned** (2023), arxiv, Wang, Yu, and Ke Wang. [[pdf]](https://arxiv.org/pdf/2303.02333)
+- **Interpretation-based Code Summarization** (2023), arxiv, Geng, Mingyang, et al. [[pdf]](https://www.researchgate.net/profile/Shangwen-Wang/publication/368755660_Interpretation-based_Code_Summarization/links/63f842890d98a97717b27fb8/Interpretation-based-Code-Summarization.pdf)
 
 # DL4SE Basics
 - A Systematic Literature Review on the Use of Deep Learning in Software Engineering Research [[web]](https://ml4code.github.io/publications/watson2021systematic/)
