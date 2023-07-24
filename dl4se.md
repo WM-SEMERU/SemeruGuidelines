@@ -48,10 +48,20 @@
 - **Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions** (2023), arxiv, Fakhoury, Sarah, et al. [[pdf]](https://arxiv.org/pdf/2304.03816)
 - **CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back** (2023), arxiv, Liu, Zhongxin, et al. [[pdf]](https://arxiv.org/pdf/2302.03924)
 - **CODIT: Code Editing with Tree-Based Neural Models** (2020), TSE 2020, Chakraborty, Saikat, et al. [[pdf](https://arxiv.org/abs/1810.00314)]
+- 
 
-## Security
+# Code Modeling
+- **ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning** (2023), arxiv, Liu, Shangqing, et al. [[pdf]](https://arxiv.org/pdf/2301.09072)
+- **On the Naturalness of Bytecode Instructions** (2022), ASE'22, Choi, Y., and J. Nam. [[pdf]](https://isel.handong.edu/papers/ase22-140.pdf)
+- **Towards Learning (Dis)-Similarity of Source Code from Program Contrasts** (2022), ACL'22, Ding, Yangruibo, et al. [[pdf]](https://aclanthology.org/2022.acl-long.436.pdf)
+- **Multilingual training for Software Engineering** (2022), ICSE'22, Ahmed, Toufique, et al. [[pdf]](https://arxiv.org/pdf/2112.02043)
+- **Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code** (2020), ICSE'20, Karampatsis, Rafael-Michael, et al.
+
+## Security / Vulnerability Detection
 - **Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models.** (2023), arxiv, Hajipour, Hossein, et al. [[pdf]](https://arxiv.org/pdf/2302.04012)
 - **Controlling Large Language Models to Generate Secure and Vulnerable Code** (2023), arxiv, He, J., and M. Vechev [[pdf]](https://arxiv.org/pdf/2302.05319)
+
+## Bug Detection
   
  ## Prompt Engineering
 - **Repository-Level Prompt Generation for Large Language Models of Code** (2022), arxiv, Shrivastava, Disha, et al. [[pdf]](https://arxiv.org/pdf/2206.12839)
