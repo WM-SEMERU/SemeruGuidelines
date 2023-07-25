@@ -111,6 +111,14 @@ Multi-Intent Comment Generation via In-Context Learning** (2023), arxiv, Geng, M
 - **AutoPruner: Transformer-Based Call Graph Pruning** (2022), FSE'22, Le-Cong, Thanh, et al. [[pdf]](https://arxiv.org/pdf/2209.03230)[[code]](https://github.com/soarsmu/AutoPruner/)
 - **Striking a Balance: Pruning False-Positives from Static Call Graphs** (2022), ICSE'22, Utture, Akshay, et al. [[pdf]](http://compilers.cs.ucla.edu/papers/balancing-callgraphs.pdf)[[code]](https://zenodo.org/record/6057691)
 
+## Software Testing
+- **LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models** (2023), arxiv, Pan, Rongqi, et al. [[pdf]](https://arxiv.org/pdf/2304.01397)
+- **Adaptive Test Generation Using a Large Language Model** (2023), arxiv, Schäfer, Max, et al. [[pdf]](https://arxiv.org/pdf/2302.06527)
+- **CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models** (2023), ICSE'23, Lemieux, Caroline, et al. [[pdf]](https://www.carolemieux.com/codamosa_icse23.pdf) 
+- **Efficient Mutation Testing via Pre-Trained Language Models** (2023), arxiv, Khanfir, Ahmed, et al. [[pdf]](https://arxiv.org/pdf/2301.03543)
+- **Test2Vec: An Execution Trace Embedding for Test Case Prioritization** (2022), arxiv, Jabbar, Emad, et al. [[pdf]](https://arxiv.org/pdf/2206.15428.pdf)
+- **Generating Accurate Assert Statements for Unit Test Cases using Pretrained Transformers** (2022), AST'22, Tufano, Michele, et al.
+- **On Learning Meaningful Assert Statements for Unit Test Cases** (2020), ICSE'20, Watson, Cody, et al.
 
 ## Interpretability/Explainability/Probing
 - **Demystifying What Code Summarization Models Learned** (2023), arxiv, Wang, Yu, and Ke Wang. [[pdf]](https://arxiv.org/pdf/2303.02333)
