@@ -143,6 +143,16 @@ Multi-Intent Comment Generation via In-Context Learning** (2023), arxiv, Geng, M
 - **DEAR: A Novel Deep Learning-based Approach for Automated Program Repair** (2022), ICSE'22, Li, Yi, et al. [[pdf]](https://arxiv.org/pdf/2205.01859)
 - **Generating Bug-Fixes Using Pretrained Transformers** (2021), arxiv 2021, Drain, Dawn, et al. [[pdf]](https://arxiv.org/pdf/2104.07896)
 
+## Code Language Models
+- **Gorilla: Large Language Model Connected with Massive APIs** (2023), arxiv, Patil, Shishir G., et al. [[pdf]](https://arxiv.org/pdf/2305.15334)
+- **CodeT5+: Open Code Large Language Models for Code Understanding and Generation** (2023), arxiv, Wang, Yue, et al. [[pdf]](https://arxiv.org/pdf/2305.07922)
+- **A Systematic Evaluation of Large Language Models of Code** (2022), arxiv 2022, Xu, Frank F., et al. [[pdf]](https://arxiv.org/pdf/2202.13169)[[code]](https://github.com/VHellendoorn/Code-LMs)
+- **CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation** (2021), EMNLP'21, Wang, Yue, et al. [[pdf]](https://aclanthology.org/2021.emnlp-main.685.pdf)
+- **Evaluating Large Language Models Trained on Code** (2021), arxiv 2021, Chen, Mark, et al. [[pdf]](https://arxiv.org/pdf/2107.03374.pdf?ref=https://githubhelp.com) [[code]](https://github.com/openai/human-eval)
+- **GraphCodeBERT: Pre-training Code Representations with Data Flow** (2021), arxiv, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2009.08366)
+- **C-BERT: Exploring Software Naturalness through Neural Language Models** (2020), arxiv, Buratti, Luca, et al. [[pdf]](https://arxiv.org/pdf/2006.12641)
+- **Codebert: A Pre-trained Model for Programming and Natural Languages** (2020), arxiv 2020, Feng, Zhangyin, et al. [[pdf]](https://arxiv.org/pdf/2002.08155)
+
 ## Code Clone Detection
 - **Pathways to Leverage Transcompiler based Data Augmentation for Cross-Language Clone Detection** (2023), arxiv, Pinku, Subroto Nag et al. [[pdf]](https://arxiv.org/pdf/2303.01435)
 - **Evaluation of Contrastive Learning with Various Code Representations for Code Clone Detection** (2022), arxiv, Zubkov, Maksim, et al. [[pdf]](https://arxiv.org/pdf/2206.08726)
