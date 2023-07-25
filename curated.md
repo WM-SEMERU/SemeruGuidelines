@@ -1,5 +1,5 @@
 # Curated List of Influential/Relevant studies in DL4SE
-> By @computoloco
+> By @computoloco, @danielrcardenas
 >
 > 
 ## Code Completion
@@ -123,6 +123,35 @@ Multi-Intent Comment Generation via In-Context Learning** (2023), arxiv, Geng, M
 ## Interpretability/Explainability/Probing
 - **Demystifying What Code Summarization Models Learned** (2023), arxiv, Wang, Yu, and Ke Wang. [[pdf]](https://arxiv.org/pdf/2303.02333)
 - **Interpretation-based Code Summarization** (2023), arxiv, Geng, Mingyang, et al. [[pdf]](https://www.researchgate.net/profile/Shangwen-Wang/publication/368755660_Interpretation-based_Code_Summarization/links/63f842890d98a97717b27fb8/Interpretation-based-Code-Summarization.pdf)
+
+## Program Repair
+- **Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT** (2023), arxiv, Xia, C. S., and Lingming Z. [[pdf]](https://arxiv.org/pdf/2304.00385)
+- **Explainable Automated Debugging via Large Language Model-driven Scientific Debugging** (2023), arxiv, Kang, Sungmin, et al. [[pdf]](https://arxiv.org/pdf/2304.02195)
+- **A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair** (2023), arxiv, Cao, Jialun, et al. [[pdf]](https://arxiv.org/pdf/2304.08191)
+- **PatchZero: Zero-Shot Automatic Patch Correctness Assessment** (2023), arxiv, Zhou, Xin, et al. [[pdf]](https://arxiv.org/pdf/2303.00202)
+- **InferFix: End-to-End Program Repair with LLMs over Retrieval-Augmented Prompts** (2023), arxiv, Jin, Matthew, et al. [[pdf]](https://arxiv.org/pdf/2303.07263)
+- **Automated Program Repair in the Era of Large Pre-trained Language Models** (2023), arxiv, Xia, C. S. et al. [[pdf]](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
+- **KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.01857)
+- **Impact of Code Language Models on Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.05020)
+- **Improving Automated Program Repair with Domain Adaptation** (2023), arxiv, Zirak, A., and Hemati, H. [[pdf]](https://arxiv.org/pdf/2212.11414)
+- **Boosting Automated Patch Correctness Prediction via Pre-trained Language Mode** (2023), arxiv, Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
+- **Improving Automated Program Repair with Domain Adaptation** (2023), arxiv, Zirak, A., and Hemati, H. [[pdf]](https://arxiv.org/pdf/2212.11414)
+- **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics** (2022), ASE'22, He et al. [[pdf]](http://arxiv.org/pdf/2203.12755)
+- **Neural Program Repair using Execution-based Backpropagation** (2022), ICSE'22, He et al. [[pdf]](https://arxiv.org/abs/2105.04123)
+- **TransRepair: Context-aware Program Repair for Compilation Errors** (2022), ASE'22, Li, Xueyang, et al. [[pdf]](https://arxiv.org/pdf/2210.03986)
+- **Less Training, More Repairing Please: Revisiting Automated Program Repair via Zero-shot Learning** (2022), FSE'22, Xia, Chunqiu Steven, and Lingming Z. [[pdf]](https://arxiv.org/pdf/2207.08281)
+- **DEAR: A Novel Deep Learning-based Approach for Automated Program Repair** (2022), ICSE'22, Li, Yi, et al. [[pdf]](https://arxiv.org/pdf/2205.01859)
+- **Generating Bug-Fixes Using Pretrained Transformers** (2021), arxiv 2021, Drain, Dawn, et al. [[pdf]](https://arxiv.org/pdf/2104.07896)
+
+## Code Clone Detection
+- **Pathways to Leverage Transcompiler based Data Augmentation for Cross-Language Clone Detection** (2023), arxiv, Pinku, Subroto Nag et al. [[pdf]](https://arxiv.org/pdf/2303.01435)
+- **Evaluation of Contrastive Learning with Various Code Representations for Code Clone Detection** (2022), arxiv, Zubkov, Maksim, et al. [[pdf]](https://arxiv.org/pdf/2206.08726)
+- **Cross-Language Source Code Clone Detection Using Deep Learning with InferCode** (2022), arxiv 2022, Yahya, M., and Kim, D., [[pdf]](https://arxiv.org/pdf/2205.04913)
+
+## Code Search
+- **You See What I Want You to See: Poisoning Vulnerabilities in Neural Code Search** (2022), FSE'22, Wan, Yao, et al. [[pdf]](https://yuleisui.github.io/publications/fse22a.pdf)
+- **How to Better Utilize Code Graphs in Semantic Code Search?** (2022), FSE'22, Shi, Yucen, et al. [[Access]](https://dl.acm.org/doi/abs/10.1145/3540250.3549087)
+- **Cross-Domain Deep Code Search with Meta Learning** (2022), ICSE'22, Chai, Yitian, et al. [[pdf]](https://guxd.github.io/papers/cdcs.pdf)
 
 ## Survey
 - **When Neural Model Meets NL2Code: A Survey** (2022), arxiv 2022, Zan, Daoguang, et al. [[pdf]](https://arxiv.org/pdf/2212.09420)
